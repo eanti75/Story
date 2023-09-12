@@ -1,1 +1,1 @@
-fhjshafjhdfkha jfnejnfjkerfjknre fnwjkn
+Most készítettem egy git brach-ot - alien-plot néven, és ezt a módosítást abban végzem. Azt checkoutoltam.
